@@ -1,25 +1,25 @@
 Advertcoin integration/staging tree
 ================================
 
-http://www.advertcoin.org
+http://www.advertcoin.ml
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Advertcoin Developers
+Copyright (c) 2018 Advertcoin Developers
 
 What is Advertcoin?
 ----------------
 
 Advertcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - subsidy halves in 520k blocks (~5 years)
+ - ~260 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
+ - 200 coins per block
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Advertcoin client sofware, see http://www.advertcoin.org.
+the Advertcoin client sofware, see http://www.advertcoin.ml.
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/advertcoin-project/advertcoin/tags) are created
+completely stable. [Tags](https://github.com/FabiannoLimma/Advertcoin-project/tags) are created
 regularly to indicate new official, stable release versions of Advertcoin.
 
 Testing
